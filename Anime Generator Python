@@ -1,0 +1,7 @@
+from random import choice 
+
+#create list of animes 
+animes=['haikyuu','Attack On Titan','Blue Lock','Tokyo Revengers',"My hero academia']
+
+#print arandome anime from animes
+print(choice(anime))
