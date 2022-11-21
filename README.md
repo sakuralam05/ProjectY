@@ -1,1 +1,1 @@
-# ProjectY
+# ProjectY Random NAme Generator 
